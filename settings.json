@@ -1,0 +1,40 @@
+{
+  "bot": {
+    "info" : {
+      "name": "Elise-chan",
+      "version": "4.0.0",
+      "apiVersion": "3.0.0",
+      "description": "The fourth edition of the Elise-chan Bot series, featuring updated functionality, economy, and music. This edition is the transition period of the Elise-chan Bot from traditional commands to slash commands. Began developing on October 29, 2023, and released on December 25, 2023. This version enforces a better command structure, utilizing the newest Elise-chan API 'ECA-3' version.",
+      "developmentPeriod": {
+        "start": 1698509779,
+        "release": null,
+        "string": "October 28, 2023 - Present"
+      },
+      "funFacts": [
+        "The bot was originally written in pure Discord.JS but had to be rewritten to a \"newbie\" library because the developer is having hard time writing music commands!"
+      ]
+    },
+    "owner": {
+      "id": "714086889878978582",
+      "username": "astrookai"
+    },
+    "system": {
+      "authorizedRoles": ["920264976663457792", "920281541656068107", "1017182492756815902", "920265063087104000", "922403776059559947"],
+      "prefix": ",",
+      "rashomonRole": "933655133332602880",
+      "token": "MTE2Nzg1OTQwMTI4MjAzOTk0OA.GR2ULk.07JF2suT7jWTpT921KQzpdFMOLaiPiUJVMARdU"
+    }
+  },
+  "embeds": {
+    "colors": {
+      "default": "0xFED95B"
+    },
+    "images": {
+      "arrest": "https://eca.astrookai.repl.co/v3/media/arrest.gif",
+      "ban": "https://eca.astrookai.repl.co/v3/media/ban.gif",
+      "kick": "https://eca.astrookai.repl.co/v3/media/kick.gif",
+      "release": "https://eca.astrookai.repl.co/v3/media/release.gif",
+      "unban": "https://eca.astrookai.repl.co/v3/media/unban.gif"
+    }
+  }
+}

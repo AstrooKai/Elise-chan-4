@@ -1,0 +1,15 @@
+{
+  "name": "elise-chan-4",
+  "version": "1.0.0",
+  "description": "Fourth generation of Elise-chan bot series.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "AstrooKai",
+  "license": "ISC",
+  "dependencies": {
+    "@akarui/aoi.parser": "^1.0.1",
+    "aoi.js": "^6.6.1"
+  }
+}
